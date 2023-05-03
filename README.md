@@ -2,6 +2,9 @@
 ## Horeison Website refactor
 ### Details
 
+This project meets the acceptance criteria that follows:
+
+
 GIVEN a webpage meets accessibility standards
 
 WHEN I view the source code
